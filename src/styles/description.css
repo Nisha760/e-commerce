@@ -1,0 +1,110 @@
+.info-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+
+.info-container>*:nth-child(1){
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.info-container>.image{
+    height: 440px;
+    width: 35%;
+}
+
+.info-container>.image>img{
+    height: 100%;
+    width: 100%;
+}
+
+.info-container>.info{
+    height: 440px ;
+    width: 60%;
+    font-size: 18px;
+    position: relative;
+}
+.info-container>.info>*{
+    margin: 10px 0;
+}
+.info-container>.info input{
+    margin-left: 10px;
+    height: 30px;
+    width: 80px;
+    border-radius: 3px;
+    border: none;
+    padding: 0 5px;
+}
+.info-container>.info input:focus{
+    outline: 1px solid black;
+}
+.info-container>.info .quantity{
+    font-size: 18px;
+}
+
+.info-container>.info .brand{
+    font-weight: 500;
+}
+
+.info-container>.info .price{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding: 3px 8px;
+    border-radius: 3px;
+}
+
+.info-container>.info .container{
+    position: relative;
+    font-weight: 500;
+}
+
+
+.info-container>.info .container>.button{
+    position: absolute;
+    right: 20px;
+    bottom: 0;
+}
+.info-container>.info .container>.button button{
+    border: none;
+    background-color: rgb(6, 184, 6);
+    padding: 8px 15px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.2s ease-in-out;
+}
+
+.info-container>.info .container>.button button:hover{
+    background-color: rgb(81, 226, 81);
+}
+
+.info-container>.info .container>.button button:active{
+    background-color: rgb(255, 208, 0);
+}
+
+.size-container{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.size-container>.size{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border: 1px solid black;
+    margin: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}

@@ -1,0 +1,226 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "Regular fit resort shirt",
+            "brand": "brand 1",
+            "price": 20,
+            "size": [
+                36,
+                38,
+                40,
+                42,
+                44
+            ],
+            "image": "/images/shirt1.jpg",
+            "category": "shirt"
+        },
+        {
+            "id": 2,
+            "title": "Printed casual shirt",
+            "brand": "brand 2",
+            "price": 23,
+            "size": [
+                36,
+                38,
+                40,
+                42,
+                44
+            ],
+            "image": "/images/shirt2.jpg",
+            "category": "shirt"
+        },
+        {
+            "id": 3,
+            "title": "solid casual shirt",
+            "brand": "brand 2",
+            "price": 30,
+            "size": [
+                36,
+                38,
+                40,
+                42
+            ],
+            "image": "/images/shirt1.jpg",
+            "category": "shirt"
+        },
+        {
+            "id": 4,
+            "title": "Men casual shirt",
+            "brand": "brand 1",
+            "price": 20,
+            "size": [
+                36,
+                38,
+                40,
+                42,
+                44
+            ],
+            "image": "/images/shirt2.jpg",
+            "category": "shirt"
+        },
+        {
+            "id": 5,
+            "title": "cotton striped shirt",
+            "brand": "brand 3",
+            "price": 25,
+            "size": [
+                36,
+                38,
+                40,
+                42,
+                44
+            ],
+            "image": "/images/shirt1.jpg",
+            "category": "shirt"
+        },
+        {
+            "id": 6,
+            "title": "pant 1",
+            "brand": "brand 1",
+            "price": 20,
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "image": "/images/pant1.jpg",
+            "category": "pant"
+        },
+        {
+            "id": 7,
+            "title": "pant 2",
+            "brand": "brand 1",
+            "price": 20,
+            "size": [
+                32,
+                34,
+                36,
+                38,
+                40
+            ],
+            "image": "/images/pant2.jpg",
+            "category": "pant"
+        },
+        {
+            "id": 8,
+            "title": "pant 3",
+            "brand": "brand 2",
+            "price": 20,
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "image": "/images/pant1.jpg",
+            "category": "pant"
+        },
+        {
+            "id": 9,
+            "title": "pant 4",
+            "brand": "brand 4",
+            "price": 20,
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "image": "/images/pant2.jpg",
+            "category": "pant"
+        },
+        {
+            "id": 10,
+            "title": "pant 5",
+            "brand": "brand 2",
+            "price": 20,
+            "size": [
+                "S",
+                "M",
+                "L",
+                "XXL"
+            ],
+            "image": "/images/pant1.jpg",
+            "category": "pant"
+        },
+        {
+            "id": 11,
+            "title": "footwear 1",
+            "brand": "brand 4",
+            "price": 30,
+            "size": [
+                38,
+                39,
+                40,
+                41,
+                42
+            ],
+            "image": "/images/shoe1.jpg",
+            "category": "footwear"
+        },
+        {
+            "id": 12,
+            "title": "footwear 2",
+            "brand": "brand 8",
+            "price": 32,
+            "size": [
+                38,
+                39,
+                40,
+                41,
+                42
+            ],
+            "image": "/images/shoe2.jpg",
+            "category": "footwear"
+        },
+        {
+            "id": 13,
+            "title": "footwear 3",
+            "brand": "brand 4",
+            "price": 30,
+            "size": [
+                38,
+                39,
+                40,
+                41,
+                42
+            ],
+            "image": "/images/shoe1.jpg",
+            "category": "footwear"
+        },
+        {
+            "id": 14,
+            "title": "footwear 4",
+            "brand": "brand 7",
+            "price": 29,
+            "size": [
+                38,
+                39,
+                40,
+                41,
+                42
+            ],
+            "image": "/images/shoe2.jpg",
+            "category": "footwear"
+        },
+        {
+            "id": 15,
+            "title": "footwear 5",
+            "brand": "brand 6",
+            "price": 24,
+            "size": [
+                38,
+                39,
+                40,
+                41,
+                42
+            ],
+            "image": "/images/shoe1.jpg",
+            "category": "footwear"
+        }
+    ],
+
+    "categories": ["Shirt", "Pant", "Footwear"]
+}
